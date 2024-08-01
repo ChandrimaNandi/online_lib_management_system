@@ -18,11 +18,14 @@ gcc -o server server.c
 gcc -o client client.c
 
 ## Usage
-# Running the Server
+**Running the Server**
 Start the server by running the following command:
+
 ./server
-# Running the Client
+
+**Running the Client**
 After starting the server, you can run the client with the following command:
+
 ./client
 
 ## Functionality
